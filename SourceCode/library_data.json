@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "account_id": 1,
+            "username": "admin",
+            "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+            "email": "admin@library.com",
+            "fullname": "Administrator",
+            "role": "Librarian",
+            "phone": "0909000111",
+            "address": "Library HQ",
+            "dob": "01/01/1990",
+            "gender": "Other",
+            "is_blocked": false
+        }
+    ],
+    "books": [
+        {
+            "isbn": "978-1",
+            "title": "Introduction to Python",
+            "author": "Guido van Rossum",
+            "publisher": "O'Reilly",
+            "year": 2024,
+            "quantity": 10,
+            "location": "Shelf A1",
+            "category": "IT"
+        },
+        {
+            "isbn": "978-2",
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "publisher": "Prentice Hall",
+            "year": 2008,
+            "quantity": 5,
+            "location": "Shelf B2",
+            "category": "IT"
+        }
+    ],
+    "loans": []
+}
